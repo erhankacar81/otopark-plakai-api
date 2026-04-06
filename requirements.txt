@@ -2,5 +2,8 @@ fastapi
 uvicorn
 python-multipart
 opencv-python-headless
-easyocr
 numpy
+--find-links https://download.pytorch.org/whl/cpu/torch_stable.html
+torch==2.0.1+cpu
+torchvision==0.15.2+cpu
+easyocr
