@@ -1,6 +1,6 @@
 fastapi
 uvicorn
-paddleocr
-opencv-python-headless
-numpy
 python-multipart
+opencv-python-headless
+easyocr
+numpy
